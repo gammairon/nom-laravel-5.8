@@ -51,7 +51,7 @@ class Weather
 
     public function getWeather()
     {
-        $weather = collect(json_decode(file_get_contents('http://api.openweathermap.org/data/2.5/weather?lang=ru&q=Kyiv&units=metric&appid=18e58769b2406610ac4238d122f59676')));
+        $weather = collect(json_decode(file_get_contents('http://api.openweathermap.org/data/2.5/weather?lang=ru&q=Kyiv&units=metric&appid=****************************')));
 
         return $weather;
     }
