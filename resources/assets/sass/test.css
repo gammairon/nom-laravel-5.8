@@ -1,0 +1,26 @@
+.card{
+    margin-top: 30px;
+}
+
+.tree{
+    padding-left: 10px;
+}
+
+.tree li{
+    list-style-type: none;
+}
+
+.news-detail .post-header ul.post-categories{
+    padding: 0;
+}
+
+.news-detail .post-header ul.post-categories li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.news-detail .post-header ul.post-categories li a{
+    list-style-type: none;
+    display: inline-block;
+}
+

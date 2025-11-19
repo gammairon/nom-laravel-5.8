@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*search
+
+User-agent: GoogleBot
+Disallow: */search
+
+User-agent: Yandex
+Disallow: */search
+
+Sitemap: https://nominal.com.ua/sitemap-index.xml
